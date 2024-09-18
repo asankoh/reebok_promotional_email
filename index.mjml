@@ -1,0 +1,136 @@
+   <mjml html lang="en">
+     <mj-head>
+       <mj-raw>
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+       </mj-raw>
+       <mj-style>
+         * {
+           box-sizing: border-box;
+           padding: 0;
+           margin: 0;
+         }
+       </mj-style>
+     </mj-head>
+
+     <mj-body background-color="#fff" width="700px">
+
+       <!--HEADER SECTION -->
+       <mj-section>
+         <mj-column>
+           <mj-text text-decoration="underline" align="center">
+             <a style="color: #000; text-decoration: none;" href="#">VIEW IN BROWSER</a>
+           </mj-text>
+           <mj-image src="http://image.em.reebok.com/lib/fe2a11717064057c7c1279/m/1/a222d17f-c28f-48b1-b13a-6427674a2ad4.png" width="600px" padding="5px" />
+         </mj-column>
+       </mj-section>
+
+       <mj-section background-color="#8D3A32">
+         <mj-column padding="0px">
+           <mj-text align="center" color="#FFF">
+             <h1> Friends & Family Sale</h1>
+           </mj-text>
+           <mj-text css-class="nowrap-text fluid-text" font-size="52px" align="center" font-weight="bold" color="#FFF"> 40% OFF SNEAKERS</mj-text>
+           <mj-text align="center" font-size="24px" font-weight="bold" padding-top="35px" color="#FFF"> Use code FAMILY</mj-text>
+           <mj-button background-color="#FAF6E9" color="#8D3A32" width="50%" height="50px" font-size="17px" padding-top="25px" href="#">Shop 40% Off Sneakers</mj-button>
+           <mj-image align="center" src="https://image.em.reebok.com/lib/fe2a11717064057c7c1279/m/1/b53d3ed2-2c9d-4219-8b9d-e3c9549013d8.gif" />
+         </mj-column>
+       </mj-section>
+
+       <mj-section background-color="#8D3A32">
+         <mj-column>
+           <mj-text align="center" color="#FFF">
+             <h1> Friends & Family Sale</h1>
+           </mj-text>
+           <mj-text css-class="nowrap-text fluid-text" font-size="52px" align="center" font-weight="bold" color="#FFF"> 60% OFF APPAREL</mj-text>
+           <mj-text align="center" font-size="24px" font-weight="bold" padding-top="35px" color="#FFF"> Use code FAMILY</mj-text>
+           <mj-button background-color="#FAF6E9" color="#8D3A32" width="50%" height="50px" font-size="17px" padding-top="25px" href="#">Shop 60% Off Apparel</mj-button>
+           <mj-image src="https://image.em.reebok.com/lib/fe2a11717064057c7c1279/m/1/2a26ce57-44c0-435f-afe5-216da4f3a73a.gif" />
+
+         </mj-column>
+
+       </mj-section>
+
+       <mj-section padding="0px">
+         <mj-column background-color="#244486">
+           <mj-text align="center" padding="20px 0" font-size="18px" color="#FFF">FREE SHIPPING ON ORDERS OF $75 OR MORE</mj-text>
+         </mj-column>
+       </mj-section>
+
+       <mj-section>
+         <mj-group>
+           <mj-column background-color="#fff">
+             <mj-text align="center" padding="0">
+               <a href="#" style="text-decoration: none;">
+                 <img src="http://image.em.reebok.com/lib/fe2a11717064057c7c1279/m/1/89ce992e-5a2b-4da4-97a0-128cf04842fb.png" alt="facebook" width="30px" padding="0 30px" style="display: inline-block; margin-right: 10px;" />
+               </a>
+               <a href="#" style="text-decoration: none;">
+                 <img src="http://image.em.reebok.com/lib/fe2a11717064057c7c1279/m/1/82bead7c-cf83-461f-9361-e7665fcc9de5.png" alt="Instagram Icon" width="30px" style="display: inline-block; margin-right: 10px;" />
+               </a>
+               <a href="#" style="text-decoration: none;">
+                 <img src="http://image.em.reebok.com/lib/fe2a11717064057c7c1279/m/1/8f124786-f284-4e9b-8b6d-9cb7791ca600.png" alt="Twitter Icon" width="30px" style="display: inline-block; margin-right: 10px;" />
+               </a>
+               <a href="#" style="text-decoration: none;">
+                 <img src="http://image.em.reebok.com/lib/fe2a11717064057c7c1279/m/1/fa2c42f5-cff5-4d63-b5fd-4c866d282b8f.png" alt="Twitter Icon" width="30px" style="display: inline-block; margin-right: 10px;" />
+               </a>
+               <a href="#" style="text-decoration: none;">
+                 <img src="http://image.em.reebok.com/lib/fe2a11717064057c7c1279/m/1/1f6058a7-ee2d-4fe6-92e8-0cc60df5092f.png" alt="Twitter Icon" width="30px" style="display: inline-block; margin-right: 10px;" />
+               </a>
+             </mj-text>
+           </mj-column>
+         </mj-group>
+       </mj-section>
+
+       <mj-section padding="0px">
+         <mj-column background-color="#244486">
+           <mj-text align="center" padding="20px 0" font-size="18px" color="#FFF">MY ACCOUNT</mj-text>
+         </mj-column>
+         <mj-column background-color="#244486">
+           <mj-text align="center" padding="20px 0" font-size="18px" color="#FFF">FIND A STORE</mj-text>
+         </mj-column>
+         <mj-column background-color="#244486">
+           <mj-text align="center" padding="20px 0" font-size="18px" color="#FFF">NEED HELP?</mj-text>
+         </mj-column>
+       </mj-section>
+
+       <!-- FOOTER SECTION -->
+       <mj-section>
+         <mj-column>
+           <mj-text font-size="13px" line-height="14px">
+             Free ground shipping offer on orders of $75 or more valid to U.S. addresses only. All offers valid on domestic U.S. orders only. <br></br> Use code FAMILY at checkout. Offer ends 9/18/24 at 3:30am EST. Valid on www.reebok.com. Exclusions apply; this may be applicable to new product launches, select classics products and limited time collections.
+           </mj-text>
+
+           <mj-text font-size="13px" line-height="14px" align="center">
+             This email was sent to: promotionalemail@email.com <br></br>
+
+             <mj-column>
+               <mj-text align="center">
+                 <a style="color: #000; text-decoration: none;" href="#">Unsubscribe and Manage My Preferences</a> |
+               </mj-text>
+             </mj-column>
+
+             <mj-column>
+               <mj-text align="center">
+                 <a style="color: #000; text-decoration: none;" href="#">Contact Us</a> |
+               </mj-text>
+             </mj-column>
+
+             <mj-column>
+               <mj-text align="center">
+                 <a style="color: #000; text-decoration: none;" href="#">Privacy Policy</a>
+               </mj-text>
+             </mj-column>
+
+           </mj-text>
+
+           <mj-text align="center">This email was sent by: <br>
+             Reebok International Ltd., LLC | 25 Drydock Ave. | Boston, MA 02210 | United States <br></br> © 2024 Reebok. All Rights Reserved.
+           </mj-text>
+
+
+
+         </mj-column>
+       </mj-section>
+
+
+     </mj-body>
+   </mjml>
